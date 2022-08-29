@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+}
+.scroll{
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  font-size: 4rem;
+  cursor: pointer;
+  color: blue;
+}

@@ -1,0 +1,106 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 2% 8%;
+    font-size: 1rem;
+    gap: 1vw;
+    background-color: rgba(228, 149, 4, 0.897);
+    color: rgb(240, 232, 223);
+    font-weight: 700;
+}
+.navbar a img{
+    height: 2rem;
+    width: 8rem;
+    cursor: pointer;
+}
+.srch{
+    display: flex;
+    gap: 2vw;
+}
+.srch ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    gap: 1rem;
+    /* width: 25rem; */
+}
+.srch ul li{
+    font-size: 1.7vw;
+}
+.srchicon{
+    
+}
+.act{
+    display: none;
+}
+.inact{
+    display: block;
+}
+.srchicon input{
+    border: none;
+    /* background-color: rgb(192, 172, 133); */
+    /* font-size: 1.4rem; */
+    max-width: 5rem;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.srchicon input:focus{
+    outline: 0;
+}
+.srchicon i{
+    /* background-color: rgb(192, 172, 133); */
+    font-size: 2.9vw;
+    /* border-right: 1px solid black; */
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    min-height: 1.7rem;
+    /* padding-left: 5%; */
+    padding-top: 5%;
+    padding-right: 5%;
+    cursor: pointer;
+}
+.active{
+    display: block;
+}
+.active input{
+    width: 25vw;
+    font-size: 1.4rem;
+    padding: 1%;
+    border-radius: 20px;
+    animation-name: searching;
+    animation-duration: 0.4s;
+    animation-direction: normal;
+    margin-left: 5vw;
+}
+.active span{
+    font-size: 2rem;
+    cursor: pointer;
+    margin-left: 2vw;
+}
+.notactive{
+    display: none;
+}
+@keyframes searching{
+    0% {max-width: 2vw;}
+    10% {max-width: 4vw;}
+    20% {max-width: 5vw;}
+    30% {max-width: 6vw;}
+    40% {max-width: 7vw;}
+    50% {max-width: 8vw;}
+    60% {max-width: 9vw;}
+    70% {max-width: 10vw;}
+    80% {max-width: 11vw;}
+    90% {max-width: 12vw;}
+    100% {max-width: 13vw;}
+}
+.navbar a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+@media (max-width:760px){
+    .srchicon i{
+        margin-top: 2vh;
+    }
+}

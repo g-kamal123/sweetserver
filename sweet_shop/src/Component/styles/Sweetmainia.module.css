@@ -1,0 +1,205 @@
+.sweetmania{
+    display: flex;
+    gap: 4vw;
+    /* position: relative; */
+}
+.sweetmania .filtercontent{
+    position: sticky;
+    min-width: 7rem;
+    max-width: 7rem;
+    top: 10%;
+}
+.sweetmania .filters ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 7rem;
+}
+.sweetmania .allproducts{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1vw;
+    padding: 2vh 0;
+}
+.sweetmania .allproducts .prod{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.26);
+    padding-bottom: 1vw;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    /* gap: 1vw; */
+    border-radius: 10px;
+    cursor: pointer;
+    /* height: 60vh;
+    width: 25vw; */
+}
+.sweetmania .allproducts .prod:hover{
+    background-color: #504747;
+    color: whitesmoke;
+    z-index: 1;
+}
+.sweetmania .allproducts .prod img{
+    height: 15rem;
+    width: 15rem;
+    border-radius: 8px 8px 0 0;
+    cursor: pointer;
+}
+.sweetmania .allproducts .prod button{
+    width: fit-content;
+    border: none;
+    font-size: 1.4rem;
+    padding: 2%;
+    background-color: rgb(102, 11, 11);
+    cursor: pointer;
+    border-radius: 5px;
+    color: aliceblue;
+}
+.allproducts .prod button:hover{
+    font-size: 1.5rem;
+}
+.sweetmania .allproducts .prod p{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1vw;
+    font-size: 1.2rem;
+}
+.sweetmania .offer{
+    height: 25rem;
+    width: 7rem;
+    position: fixed;
+    right: 0;
+}
+.off{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    right: 1rem;
+    top: 10rem;
+    background-color: brown;
+    padding: 1%;
+}
+.off i,.off1 i{
+    font-size: 3.7rem;
+    color: #fcfcfc;
+    cursor: pointer;
+}
+.off p,.off1 p{
+    transform: rotate(-180deg);
+    width: 36px;
+    padding: 4px;
+    height: 200px;
+    writing-mode: vertical-rl;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    color: #fcfcfc;
+    display: inline-block;
+}
+.draw{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+.off1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: brown;
+    padding: 1%;
+}
+.drawcontent{
+    display: flex;
+    padding: 0 1rem;
+}
+.drawcontent .imgbtn{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.drawcontent img{
+    height: 12rem;
+    width: 10rem;
+}
+.drawcontent button{
+    border: none;
+    background-color: maroon;
+    padding: 4%;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    color: #fcfcfc;
+    cursor: pointer;
+}
+.drawcontent button:hover{
+    font-size: 1.4rem;
+    background-color: rgb(58, 2, 2);
+}
+.modal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+}
+.modal .content{
+    height: fit-content;
+    width: fit-content;
+    position: absolute;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 7%;
+    gap: 2rem;
+}
+.modal .content img{
+    height: 15rem;
+    width: 15rem;
+}
+.modal .content .textcontent{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    gap: 1vh;
+}
+.modal .content .textcontent button{
+    font-size: 1rem;
+    margin-bottom: 10%;
+    cursor: pointer;
+    padding: 4% 18%;
+    width: 12rem;
+    background-color: whitesmoke;
+    border: 1.5px solid brown;
+    text-transform: capitalize;
+    border-radius: 5px;
+
+}
+.modal .content .textcontent button:hover{
+    background-color: brown;
+    color: whitesmoke;
+}
+.modal .content .closemodal{
+    cursor: pointer;
+    font-size: 4rem;
+    position: absolute;
+    right: 2rem;
+    top: 0;
+    color: red;
+}
+.modal .content .closemodal:hover{
+    font-size: 5rem;
+}
+@media (max-width:760px){
+    .modal .content{
+        padding: 11% 5%;
+    }
+}

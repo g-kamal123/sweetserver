@@ -1,0 +1,295 @@
+{
+  "laddoo": [
+    {
+      "id": "1",
+      "name": "motichur",
+      "image": "https://cdn.shopify.com/s/files/1/0592/0342/0346/products/1.Motichurladdu.jpg?v=1629656702",
+      "price": 160,
+      "desc": "Motichur laddu are soft, delish melt in the mouth ladoo made mainly with gram flour, sugar, and spices.. One of the most popular Indian sweet."
+    },
+    {
+      "id": "2",
+      "name": "ragi coconut laddoo",
+      "image": "https://c.ndtvimg.com/m9ban7tg_ladoo_625x300_31_August_18.jpg",
+      "price": 140
+    },
+    {
+      "id": "3",
+      "name": "besan ke laddoo",
+      "image": "https://i.ndtvimg.com/i/2017-05/desserts-besan-ladoo_620x350_71494239743.jpg",
+      "price": 150
+    },
+    {
+      "id": "4",
+      "name": "boondi ke laddoo",
+      "image": "https://i.ndtvimg.com/i/2016-02/boondikeladoo_625x350_41455271162.jpg",
+      "price": 140
+    },
+    {
+      "id": "5",
+      "name": "aata ke laddoo",
+      "image": "https://i.ndtvimg.com/i/2017-10/atta-ladoo-recipe_620x350_71508236021.jpg",
+      "price": 120
+    },
+    {
+      "id": "6",
+      "name": "til laddoo",
+      "image": "https://i.ndtvimg.com/i/2018-01/til-ladoo_620x330_41515586167.jpg",
+      "price": 155
+    },
+    {
+      "id": "7",
+      "name": "menthi ke laddo",
+      "image": "https://i.ndtvimg.com/i/2018-01/sonth-methi-ladoo_620x330_51515661830.jpg",
+      "price": 170
+    },
+    {
+      "id": "8",
+      "name": "murmuru ke laddoo",
+      "image": "https://i.ndtvimg.com/i/2017-03/coconut-til-laddoo_620x330_61490875134.jpg",
+      "price": 175
+    },
+    {
+      "id": "9",
+      "name": "panjiri",
+      "image": "https://i.ndtvimg.com/i/2017-11/ladoo-gondh-620_620x350_81510910984.jpg",
+      "price": 180
+    },
+    {
+      "id": "10",
+      "name": "dates laddoo",
+      "image": "https://c.ndtvimg.com/2018-09/aqhak6gg_ladoo_625x300_27_September_18.jpg",
+      "price": 200
+    }
+  ],
+  "barfi": [
+    {
+      "id": "1",
+      "name": "kaju katli",
+      "image": "https://i.ndtvimg.com/i/2017-09/kaju-katli_620x333_71505992427.jpg",
+      "price": 700
+    },
+    {
+      "id": "2",
+      "name": "besan ki barfi",
+      "image": "https://i.ndtvimg.com/i/2017-05/desserts-besan-barfi_620x350_71494239616.jpg",
+      "price": 350
+    },
+    {
+      "id": "3",
+      "name": "moong dal ki barfi",
+      "image": "https://i.ndtvimg.com/i/2016-06/besan-barfi_625x350_61464849934.jpg",
+      "price": 450
+    },
+    {
+      "id": "7",
+      "name": "badam barfi",
+      "image": "https://c.ndtvimg.com/2018-11/3g0ifedo_badam-ki-barfi_625x300_05_November_18.jpg",
+      "price": 550
+    },
+    {
+      "id": "4",
+      "name": "nachni barfi",
+      "image": "https://i.ndtvimg.com/i/2017-10/nachni-barfi_620x330_51507023146.jpg",
+      "price": 400
+    },
+    {
+      "id": "8",
+      "name": "nariyal ki barfi",
+      "image": "https://i.ndtvimg.com/i/2017-03/nariyal-barfi_620x330_81490875034.jpg",
+      "price": 375
+    },
+    {
+      "id": "5",
+      "name": "lauki gulkand barfi",
+      "image": "https://c.ndtvimg.com/2018-10/7030nd58_lauki-gulkand-barfi_625x300_31_October_18.jpg",
+      "price": 300
+    },
+    {
+      "id": "9",
+      "name": "faldhari badam barfi",
+      "image": "https://c.ndtvimg.com/2018-10/1oq67c5_faldhari-barfi_625x300_11_October_18.jpg",
+      "price": 600
+    },
+    {
+      "id": "6",
+      "name": "kaju rose barfi",
+      "image": "https://c.ndtvimg.com/2021-09/66br56b8_kaju-barfi_625x300_03_September_21.jpg",
+      "price": 655
+    },
+    {
+      "id": "10",
+      "name": "sattu cashew barfi",
+      "image": "https://c.ndtvimg.com/2021-11/ncskj818_sattu-cashew-barfi_625x300_01_November_21.jpg?im=FaceCrop,algorithm=dnn,width=620,height=350",
+      "price": 740
+    },
+    {
+      "id": "11",
+      "name": "mysore pak",
+      "image": "https://www.dadus.co.in/media/catalog/product/cache/a75c14610ad2258f4e58b13f2a9e2150/g/h/ghee_mysore_pak.png",
+      "price": 450,
+      "desc": "Mysore Pak is a sweet dish from the state of Karnataka, prepared especially during diwali. Besan, ghee, sugar and water mixed together to form soft pieces."
+    }
+  ],
+  "jamun": [
+    {
+      "id": "1",
+      "name": "gulab jamun",
+      "image": "https://static.toiimg.com/thumb/63799510.cms?imgsize=1091643&width=800&height=800",
+      "desc": "Gulab jamun is a sweet confectionary or dessert, originating in the Indian subcontinent and a type of mithai popular in India, Pakistan, Nepal, the Maldives ",
+      "price": 400
+    },
+    {
+      "id": "2",
+      "name": "kala jamun",
+      "image": "https://rachnas-kitchen.com/wp-content/uploads/2016/10/kala-jamun_-2.jpg",
+      "desc": " While gulab jamuns are golden colored balls, kala jamun have a dark color with just some shades away from black ",
+      "price": 300
+    }
+  ],
+  "chhena": [
+    {
+      "id": "1",
+      "name": "sandeh",
+      "image": "https://c.ndtvimg.com/2019-10/c66kbmr8_durga-puja-2019-sandesh-recipe_625x300_01_October_19.jpg",
+      "desc": "A true blue Bengali dessert, Sandesh (or sandesh) is one dessert without which your festive celebration would be incomplete.",
+      "price": 350
+    },
+    {
+      "id": "2",
+      "name": "rasgulla",
+      "image": "https://i.ndtvimg.com/i/2017-10/rasgulla-recipe_620x330_51508133855.jpg",
+      "desc": "Is there any celebration without a generous serving of sugar-laden rasgulla?! Another takeaway from the rich Bengali cuisine, rasgullas (or roshogollas) are spongy balls made of chhena and dipped in sugar syrup",
+      "price": 400
+    },
+    {
+      "id": "3",
+      "name": "rasmalai",
+      "image": "https://c.ndtvimg.com/2019-01/tghm4oco_rasmalai_625x300_31_January_19.jpg",
+      "desc": " Rasmalai literally translates to 'juice' from 'ras' and 'cream' from 'malai', and makes for a mouth-watering treat no matter what the occasion is.",
+      "price": 550
+    }
+  ],
+  "halwa": [
+    {
+      "id": "1",
+      "name": "walnut ka halwa",
+      "image": "https://c.ndtvimg.com/2018-11/egag8ico_halwa-walnut_625x300_29_November_18.jpg",
+      "desc": " Ground walnuts along with cucumber seeds roasted with sugar, cardamom and milk makes for a healthy dessert ",
+      "price": 500
+    },
+    {
+      "id": "2",
+      "name": "badam ka halwa",
+      "image": "https://c.ndtvimg.com/2018-11/mmtrtm4o_badaam-halwa_625x300_29_November_18.jpg",
+      "desc": " Almonds are blanched and peeled; then cooked with desi ghee till they turn brown. It's a perfect way to end your meal. ",
+      "price": 525
+    }
+  ],
+  "cake": [
+    {
+      "id": "1",
+      "name": "chocklate cake",
+      "image": "https://static.halfcute.com/blog/wp-content/uploads/2021/05/27234513/Chocolate-Cake.jpg",
+      "desc": "Chocolate cakes are universally loved. Everyone has a nostalgic connection with a chocolate cake.",
+      "price": 275
+    },
+    {
+      "id": "2",
+      "name": "pineapple cake",
+      "image": "https://static.halfcute.com/blog/wp-content/uploads/2021/05/27234706/Rainbow-Cake.jpg",
+      "desc": "Rainbow reminds us of fairy tales and wonderlands. All kids pass a stage where they are absolutely mesmerized by rainbows and they probably think rainbows come out from a treasure box. Give your kids the magical wonderland vibes with the amazing Rainbow cake that is so perfect for themed birthday parties.",
+      "price": 400
+    }
+  ],
+  "kulfi": [
+    {
+      "id": "1",
+      "name": "pista kulfi",
+      "image": "https://www.nehascookbook.com/wp-content/uploads/2020/06/4-type-kulfi-WS.jpg",
+      "desc": "Basically kulfi’s are traditional Indian desserts.",
+      "price": 215
+    }
+  ],
+  "salted": [
+    {
+      "id": "1",
+      "name": "roasted dryfruit mix",
+      "image": "https://i.ndtvimg.com/i/2017-04/dry-fruits_620x350_81491555866.jpg?im=FaceCrop,algorithm=dnn,width=620,height=350",
+      "desc": "Dry fruits have always been known for their wide range of health benefits. It is one superfood that has a rich nutrient profile",
+      "price": 780
+    }
+  ],
+  "cart": [
+    {
+      "id": "31966b86-51c1-4a9e-be01-53cd2dd234c0",
+      "prodId": "1",
+      "name": "motichur",
+      "image": "https://cdn.shopify.com/s/files/1/0592/0342/0346/products/1.Motichurladdu.jpg?v=1629656702",
+      "price": 160,
+      "quantity": 1
+    }
+  ],
+  "customers": [
+    {
+      "id": "a2b03890-6505-4795-b203-73f4b6dcbdaa",
+      "phone": "5464654757"
+    },
+    {
+      "id": "5b29914a-8a39-46e3-a7ce-de0f38c8a78e",
+      "phone": "4354575676"
+    },
+    {
+      "id": "38e01f3a-d81e-4026-9931-bf5621f7d1db",
+      "phone": "6546456646"
+    },
+    {
+      "id": "bcfe745b-fee8-4623-97a1-c48c52db5c7c",
+      "phone": "3243454665"
+    },
+    {
+      "id": "787e184f-3a4e-4ad9-97a8-04c29d659f0e",
+      "phone": "4654765765"
+    },
+    {
+      "id": "7a1d2412-166e-46f4-830e-0485071d4b99",
+      "phone": "2435354534"
+    },
+    {
+      "id": "0f9b4972-f016-4be3-b57b-c6e4b7ba9e70",
+      "phone": "6756754646"
+    },
+    {
+      "id": "60dcac7d-81c2-421a-8a79-8fc44e42eab8",
+      "phone": "3544546457"
+    },
+    {
+      "id": "99466e77-5d3a-4634-baf8-f9adcb0b6d04",
+      "phone": "3546467547"
+    },
+    {
+      "id": "b738dd30-4869-456d-81ad-7536243abb5d",
+      "phone": "5654654654"
+    },
+    {
+      "id": "e5909404-4a19-4b2b-9f65-e732fd4cc28b",
+      "phone": "8686865868"
+    },
+    {
+      "id": "983ae910-cccf-4812-a786-f221d77b753d",
+      "phone": "9878779799"
+    },
+    {
+      "id": "1a403f79-0acf-4be6-a395-35b7f448f11d",
+      "phone": "3243543534"
+    },
+    {
+      "id": "399f4ec0-e220-4df6-81b1-8b265b313f80",
+      "phone": "1325435465"
+    },
+    {
+      "id": "253a2e98-b8e9-419f-9d1f-81041122d439",
+      "phone": "47584y5843"
+    }
+  ]
+}

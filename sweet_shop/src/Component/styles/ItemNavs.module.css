@@ -1,0 +1,21 @@
+.itemnavs{
+    display: flex;
+    justify-content: space-between;
+    padding: 1vh 8vw;
+    gap: 1vw;
+}
+.itemnavs .item img{
+    height: 13vh;
+    width: 6vw;
+    border: 4px solid black;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.itemnavs .item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* .itemnavs .item select:focus{
+    outline: 0;
+} */

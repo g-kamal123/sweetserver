@@ -1,0 +1,52 @@
+.cardiv1{
+    position: relative;
+}
+.crdnow1{
+    position: absolute;
+    top: 15vh;
+    left: 8vw;
+    border: none;
+    background-color: rgba(223, 43, 11, 0.2);
+    color: rgb(217, 255, 0);
+    /* color: whitesmoke; */
+    font-size: 1.9rem;
+    font-weight: 800;
+    border-radius: 10px;
+    padding: 1vw;
+    cursor: pointer;
+}
+.crdnow2:hover,.crdnow1:hover,.crdnow3:hover{
+    font-size: 2rem;
+}
+.cardiv2{
+    position: relative;
+}
+.crdnow2{
+    position: absolute;
+    top: 4vh;
+    right: 24vw;
+    border: none;
+    background-color: rgba(112, 30, 15, 0.8);
+    color: whitesmoke;
+    font-size: 1.9rem;
+    font-weight: 800;
+    border-radius: 10px;
+    padding: 1vw;
+    cursor: pointer;
+}
+.cardiv3{
+    position: relative;
+}
+.crdnow3{
+    position: absolute;
+    bottom: 2vh;
+    left: 5vw;
+    border: none;
+    background-color: rgba(223, 43, 11);
+    color: whitesmoke;
+    font-size: 1.9rem;
+    font-weight: 800;
+    border-radius: 10px;
+    padding: 1vw;
+    cursor: pointer;
+}
